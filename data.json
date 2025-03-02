@@ -170,7 +170,7 @@
     {
         "product": "Datafold",
         "website": "https://datafold.com/",
-        "llms-full-txt": "",
+        "llms-full-txt": "https://docs.datafold.com/llms-full.txt",
         "llms-full-txt-tokens": 90348,
         "llms-txt": "https://docs.datafold.com/llms.txt",
         "llms-txt-tokens": 4998
